@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DoubleLinkedList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoubleLinkedList_jar</output-path>
+    <root id="archive" name="DoubleLinkedList.jar">
+      <element id="module-output" name="DoubleLinkedList" />
+    </root>
+  </artifact>
+</component>
